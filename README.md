@@ -6,7 +6,7 @@ Merry April 1, 2022
 - UNHCR - https://unhcr.org/
 - UNICEF - https://unicef.org/
 - UN WFP - https://wfp.org/
-- ICR - https://rescue.org/
+- IRC - https://rescue.org/
 
 ## Languages (in alphabetical order)
 - Crystal - https://crystal-lang.org/
