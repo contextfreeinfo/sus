@@ -5,7 +5,7 @@ Merry April 1, 2022
 ## Organizations helping refugees and others in similar need
 - UNHCR - https://unhcr.org/
 - UNICEF - https://unicef.org/
-- UN WFP - https://wfp.org
+- UN WFP - https://wfp.org/
 - ICR - https://rescue.org/
 
 ## Languages (in alphabetical order)
